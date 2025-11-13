@@ -61,4 +61,4 @@ Key visuals in the Power BI dashboard:
 - Provides a foundation for future predictive modeling (price prediction)
 
 ### 🔗 Dashboard Preview
-![alt text](image.png)
+!![alt text](dublin_property_analysis_dashboard.JPG)
